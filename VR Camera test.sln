@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Camera test", "VR Camera test.csproj", "{052BB368-273B-D8DA-1F74-BECC6599CAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Camera test.Editor", "VR Camera test.Editor.csproj", "{C77D96E8-EA17-D5B1-0E4D-CB43E15AA1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052BB368-273B-D8DA-1F74-BECC6599CAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052BB368-273B-D8DA-1F74-BECC6599CAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052BB368-273B-D8DA-1F74-BECC6599CAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052BB368-273B-D8DA-1F74-BECC6599CAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77D96E8-EA17-D5B1-0E4D-CB43E15AA1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77D96E8-EA17-D5B1-0E4D-CB43E15AA1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77D96E8-EA17-D5B1-0E4D-CB43E15AA1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77D96E8-EA17-D5B1-0E4D-CB43E15AA1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
